@@ -6,7 +6,7 @@
 }
 
 .tag-bar .tag {
-    -fx-background-color: lightblue;
+    -fx-background-color: lightblue
     -fx-alignment: center;
 }
 
